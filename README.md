@@ -3,7 +3,7 @@ The purpose of the analysis is to show Louise what other plays outcomes were bas
 ## Analysis and Challenges
 I used the formulas provided by the module challenge and class examples to create the data needed to create two charts. Challenges I encountered were ensuring there were no filters on the Kickstart page as the filteres did not allow the correct data to come through and my formulas only gave the number 0. I also learned that copying and pasting the formula does not automatically provide the correct data. The copied field needs modifications made to it in order to obtain the correct data. Finally I learned that which graph is chosen determines how the information is shown. I chose the incorrect line graph at first and could not figure out why it did not look correct. Once I chose a different graph it finally looked like the example in the module.
 ![Challenge](https://user-images.githubusercontent.com/105513491/170895187-ab6f9484-ef68-4643-8dec-f629a70d8596.png)
-![Incorrect Chart](https://user-images.githubusercontent.com/105513491/170895421-b30f9feb-e119-420e-8a22-58d65061e28f.png)
+![Challenge1](https://user-images.githubusercontent.com/105513491/170895532-2760460b-00f6-44ca-a18e-a74b3fee1995.png)
 ### Conclusions
 Two conclusions I can draw from the Theater Outcomes by Launch Date are fundraising campaigns launced in early summer do best and campaigns launched at the end of the year do the worst. I would tell Louise she should time her fundraising launches in late May or early June. 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/105513491/170895277-b16bfa2a-0143-46e0-8cca-5fc867dd495a.png)
